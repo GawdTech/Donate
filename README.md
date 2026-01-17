@@ -1,5 +1,3 @@
-# Donate
-
 <p align="center">
 <div id="donate-button-container">
 <div id="donate-button"></div>
